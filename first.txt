@@ -2,3 +2,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/john5959/john.git
 git push -u origin master
+Transfor this file to higher management 
+give proper allignment to all modules
